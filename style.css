@@ -1,0 +1,43 @@
+.past{
+    background-color: rgb(216, 47, 70);
+}
+
+.present{
+    background-color: gold;
+}
+
+.future{
+    background-color: rgb(26, 240, 26);
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.display-3{
+    font-family: 'Sigmar One', cursive;
+    color: cornsilk;
+}
+
+.lead{
+    font-family: 'Sigmar One', cursive;
+    color: bisque;
+}
+
+#scheduleTime{  
+    font-family: 'Sigmar One', cursive;
+    color: white;
+    text-shadow: 2px 2px 10px #000000;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.clearButton{
+    text-shadow: 2px 2px 10px #000000;
+}
+.calButton{
+    text-shadow: 2px 2px 10px #000000;
+}
+
+.button{
+    text-shadow: 2px 2px 10px #000000;
+}
